@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+sslyze
+cryptography
+httpx
+python-dateutil
