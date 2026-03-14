@@ -1,4 +1,4 @@
-# 🛡️ PNB Quantum-Proof Cryptographic Scanner
+# 🛡️ Quantum-Proof Cryptographic Scanner
 
 > **"Quantum-Ready Cybersecurity for Future-Safe Banking"**
 >
